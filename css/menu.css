@@ -1,0 +1,99 @@
+@charset "utf-8";
+
+body {font-family: 'Modern Sans Light';}
+
+/* 배너 */
+#banner {width: 1276px; height: 284px; margin: 0 auto; border-bottom: #b8b4ac 2px solid;}
+#banner .title {width: 120px; height: 50px; font-size: 50px;  float: left;  margin: 50px 70px;}
+#banner .body { width: 600px; font-size: 20px; margin-top: 100px; margin-left: 70px; clear: both;}
+
+#banner .box {float: right;}
+#banner .new {width: 210px; height: 70px; border-top: #b8b4ac 2px solid; border-left: #b8b4ac 2px solid;}
+#banner .new p {margin: 23px; width: 50px; float: left; margin-top: 26px;}
+#banner .new svg {float: right; margin: 25px;}
+
+#banner .collection {width: 210px; height: 70px; border-top: #b8b4ac 2px solid; border-left: #b8b4ac 2px solid;}
+#banner .collection p {margin: 23px; float: left; margin-top: 26px;}
+#banner .collection svg {float: right; margin: 25px;}
+
+
+/* 섹션 */
+#box1 {width: 1276px; height: 493px; margin: 0 auto; border-bottom: #b8b4ac 2px solid; float: left;}
+#box1 .a {width: 425px; height: 493px; margin: 0 auto; border-right: #b8b4ac 2px solid; float: left;}
+#box1 .a img {width: 100%;}
+#box1 .a img:hover {opacity: 0.8;}
+#box1 .a .n1 {text-align: center; font-size: 19px; margin: -50px;}
+#box1 .a .p1 {text-align: center; font-size: 17px; margin: 55px; font-family: 'PretendardRegular';}
+
+#box1 .b {width: 425px; height: 493px; margin: 0 auto; border-right: #b8b4ac 2px solid; float: left;}
+#box1 .b img {width: 100%;}
+#box1 .b img:hover {opacity: 0.8;}
+#box1 .b .n2 {text-align: center; font-size: 19px; margin: -50px;}
+#box1 .b .p2 {text-align: center; font-size: 17px; margin: 55px; font-family: 'PretendardRegular';}
+
+
+#box1 .c {width: 422px; height: 493px; margin: 0 auto;  float: left;}
+#box1 .c img {width: 100%;}
+#box1 .c img:hover {opacity: 0.8;}
+#box1 .c .n3 {text-align: center; font-size: 19px; margin: -50px;}
+#box1 .c .p3 {text-align: center; font-size: 17px; margin: 55px; font-family: 'PretendardRegular';}
+
+
+
+
+#box2 {width: 1276px; height: 493px; margin: 0 auto; border-bottom: #b8b4ac 2px solid; clear: both;}
+#box2 .d {width: 425px; height: 493px; margin: 0 auto; border-right: #b8b4ac 2px solid; float: left;}
+#box2 .d img {width: 100%;}
+#box2 .d img:hover {opacity: 0.8;}
+#box2 .d .n4 {text-align: center; font-size: 19px; margin: -50px;}
+#box2 .d .p4 {text-align: center; font-size: 17px; margin: 55px; font-family: 'PretendardRegular';}
+
+
+#box2 .e {width: 425px; height: 493px; margin: 0 auto; border-right: #b8b4ac 2px solid; float: left;}
+#box2 .e img {width: 100%;}
+#box2 .e img:hover {opacity: 0.8;}
+#box2 .e .n5 {text-align: center; font-size: 19px; margin: -50px;}
+#box2 .e .p5 {text-align: center; font-size: 17px; margin: 55px; font-family: 'PretendardRegular';}
+
+
+#box2 .f {width: 422px; height: 493px; margin: 0 auto; float: left;}
+#box2 .f img {width: 100%; height: 100%;}
+
+
+
+#box3 {width: 1276px; height: 493px; margin: 0 auto; border-bottom: #b8b4ac 2px solid;}
+#box3 .g {width: 425px; height: 493px; margin: 0 auto; border-right: #b8b4ac 2px solid; float: left;}
+#box3 .g img {width: 100%; height: 100%;}
+
+
+
+#box3 .h {width: 425px; height: 493px; margin: 0 auto; border-right: #b8b4ac 2px solid; float: left;}
+#box3 .h img {width: 100%;}
+#box3 .h img:hover {opacity: 0.8;}
+#box3 .h .n8 {text-align: center; font-size: 19px; margin: -50px;}
+#box3 .h .p8 {text-align: center; font-size: 17px; margin: 55px; font-family: 'PretendardRegular';}
+
+
+#box3 .i {width: 420px; height: 493px; margin: 0 auto; float: left; }
+#box3 .i img {width: 100%;}
+#box3 .i img:hover {opacity: 0.8;}
+#box3 .i .n9 {text-align: center; font-size: 19px; margin: -50px;}
+#box3 .i .p9 {text-align: center; font-size: 17px; margin: 55px; font-family: 'PretendardRegular';}
+
+
+
+#box4 {width: 1276px; height:493px; margin: 0 auto; border-bottom: #b8b4ac 2px solid; clear: both;}
+#box4 .j {width: 636px; height: 493px; margin: 0 auto; border-right: #b8b4ac 2px solid; float: left;}
+#box4 .j img {width: 80%; height: 90%; margin: 0 60px;}
+#box4 .j img:hover{opacity: 0.8;}
+#box4 .j .n10 {text-align: center; font-size: 19px; margin: -50px;}
+#box4 .j .p10 {text-align: center; font-size: 17px; margin: 55px; font-family: 'PretendardRegular';}
+
+
+
+#box4 .k {width: 636px; height: 493px; margin: 0 auto; float: left;}
+#box4 .k img {width: 80%; height: 90%; margin: 0 60px;}
+#box4 .k img:hover {opacity: 0.8;}
+#box4 .k .n11 {text-align: center; font-size: 19px; margin: -50px;}
+#box4 .k .p11 {text-align: center; font-size: 17px; margin: 55px; font-family: 'PretendardRegular';}
+

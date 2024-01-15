@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+
+
+#wrap {width: 1276px; height: 2689px; margin: 0 auto; border: #dedacf 2px solid; overflow: hidden;}
+
+/* 헤더 */
+header {width: 1276px; height: 85px; margin: 0 auto; border-bottom: #b8b4ac 2px solid;}
+#logo {width: 450px; height: 30px; margin: 0 auto;}
+#logo p {font-size: 30px; font-weight: bold; font-family: "Nexa Heavy"; padding-top: 30px; text-align: center; }
+
+
+nav#left li {height:20px; float: left; padding: 0 30px;  margin-top: 25px; font-family: ModernSans-Light;}
+nav#right li {height:20px; float: right; padding: 0 30px;  margin-top: 25px; font-family: ModernSans-Light;}
+
+
+
+
+/* 푸터 */
+footer {width: 1276px; height: 300px; margin: 0 auto; border-bottom: #b8b4ac 2px solid;}
+footer #lbox {width: 504px; height: 300px; float: left;  border-right: #b8b4ac 2px solid;}
+#lbox > .textbox1 p {font-size: 36px; width: 270px; font-family: "Nexa Heavy"; line-height: 1.1em; margin: 40px 0 20px 50px;}
+#lbox > .textbox2 {width: 350px; height: 50px; margin: 0 0 20px 50px;}
+
+
+footer #rbox {width: 770px; height: 300px; float: right;}
+#rbox .group {float: left; margin: 40px 5px 0 30px;}
+#rbox > .title1 {width: 220px; height: 130px;}
+#rbox > .title1 .e {font-weight: bold; font-size: 18px;}
+#rbox > .title1 .n {font-size: 20px;  padding: 7px 0 15px 0; font-family: 'PretendardRegular';}
+#rbox > .title1 .k { font-family: 'PretendardRegular';}
+#rbox > .title1 .en {font-size: 14px; padding-top: 10px; }
+
+
+#rbox > .title2 {width: 210px; height: 130px;}
+#rbox > .title2 .e {font-weight: bold; font-size: 18px; padding-bottom: 11px;}
+#rbox > .title2 .k {font-size: 16px; padding-bottom: 9px; font-family: 'PretendardRegular';}
+#rbox > .title2 .kk {font-size: 11px;  font-family: 'PretendardRegular';}
+
+
+#rbox > .title3 {width: 180px; height: 110px;}
+#rbox > .title3 .e {font-weight: bold; font-size: 18px;}
+#rbox > .title3 img {float: left; width: 30px; height: 30px;}
+#rbox > .title3 .f {width: 40px; height: 40px; margin: 8px 0 0 -10px;}
+#rbox > .title3 .i {width: 60px; height: 80px; margin: -8px -15px 0 -8px;}
+#rbox > .title3 .y {width: 60px; height: 60px; margin: 3px;}
+
+
+#rbox > .gray {font-size: 9px; font-family: 'PretendardRegular'; width: 800px; height: 40px; margin: 265px 0 0 20px; color: #9e9b94;}
+#rbox > .gray li {font-size: 8px; font-family: 'PretendardRegular'; float: left; margin: 5px 20px 0 0; color: #9e9b94;}
